@@ -1,5 +1,7 @@
 Before analyzing data, a Data Scientist must extract the data, and make it clean and valuable.
 
+http://localhost:8888/notebooks/DS%20-%20Data%20Preparation%20and%20Cleansing.ipynb
+
 Extract and Read Data With Pandas
 Before data can be analyzed, it must be imported/extracted.
 
