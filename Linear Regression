@@ -1,6 +1,8 @@
 Linear Regression
 The term regression is used when you try to find the relationship between variables.
 
+http://localhost:8888/notebooks/DS%20-%20Linear%20Regression.ipynb
+
 In Machine Learning and in statistical modeling, that relationship is used to predict the outcome of events.
 
 In this module, we will cover the following questions:
