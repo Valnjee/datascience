@@ -1,6 +1,8 @@
 Slope and Intercept
 Now we will explain how we found the slope and intercept of our function:
 
+http://localhost:8888/notebooks/DS%20-%20Slope%20and%20Intercept.ipynb
+
 f(x) = 2x + 80
 The image below points to the Slope - which indicates how steep the line is, and the Intercept - which is the value of y, when x = 0 (the point where the diagonal line crosses the vertical axis). The red line is the continuation of the blue line from previous page.
 
